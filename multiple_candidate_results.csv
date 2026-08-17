@@ -1,0 +1,4 @@
+Skills,Experience (Years),Education,Certifications,Job Role,Salary Expectation ($),Projects Count,AI Score (0-100),Prediction,Hire Probability (%),Reject Probability (%)
+"Python, Machine Learning",6,B.Tech,AWS Certified,Data Scientist,85000,5,90,HIRE,100.0,0.0
+"Java, SQL",2,B.Sc,No Certification,Software Engineer,60000,2,55,REJECT,0.15,99.85
+"Python, Deep Learning",8,M.Tech,TensorFlow Certified,AI Researcher,95000,7,95,HIRE,100.0,0.0
