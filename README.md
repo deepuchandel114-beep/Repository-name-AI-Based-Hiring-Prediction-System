@@ -114,6 +114,10 @@ The project includes:
 
 ![Top 10 Feature Importance](screenshots/Top%2010%20Feature%20Importance.png)
 
+### Candidate Prediction Demo
+
+![Candidate Prediction Demo](screenshots/Candidate%20Prediction%20Demo.png)
+
 ---
 
 ## ⚙️ Installation
