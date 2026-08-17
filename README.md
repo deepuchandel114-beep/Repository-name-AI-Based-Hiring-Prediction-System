@@ -72,3 +72,36 @@ AI-Based-Hiring-Prediction-System/
 ├── multiple_candidate_results.csv
 ├── requirements.txt
 └── README.md
+## 📊 Project Screenshots
+
+### Hiring Decision Distribution
+
+![Hiring Decision Distribution](screenshots/Hiring%20decision%20distribution.png)
+
+### AI Score vs Hiring Decision
+
+![AI Score vs Hiring Decision](screenshots/AI%20Score%20vs%20Hiring%20Decision.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/Confusion%20Matrix.png)
+
+### Education vs Hiring Decision
+
+![Education vs Hiring Decision](screenshots/Education%20vs%20Hiring%20decision.png)
+
+### Job Role vs Hiring Decision
+
+![Job Role vs Hiring Decision](screenshots/Job%20vs%20Hiring%20Decision.png)
+
+### Projects Count vs Hiring Decision
+
+![Projects Count vs Hiring Decision](screenshots/Project%20Count%20vs%20Hiring%20decision.png)
+
+### Salary Expectation vs Hiring Decision
+
+![Salary Expectation vs Hiring Decision](screenshots/Salary%20Expectation%20vs%20Hiring%20Decision%20.png)
+
+### Top 10 Feature Importance
+
+![Top 10 Feature Importance](screenshots/Top%2010%20Feature%20Importance.png)
