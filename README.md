@@ -41,3 +41,11 @@ Model Evaluation
 Model Saving
    ↓
 Candidate Prediction
+
+## ▶️ How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/deepuchandel114-beep/Repository-name-AI-Based-Hiring-Prediction-System.git
+cd Repository-name-AI-Based-Hiring-Prediction-System
