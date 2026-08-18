@@ -79,3 +79,20 @@ AI-Based-Hiring-Prediction-System/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+---
+
+## 🚀 Future Improvements
+
+The current system can be further enhanced with the following features:
+
+- Build an interactive web interface using Streamlit or Flask
+- Allow recruiters to enter candidate details through a form
+- Add resume parsing and automatic candidate information extraction
+- Integrate NLP-based skill matching
+- Compare multiple Machine Learning algorithms
+- Add model explainability using SHAP
+- Store candidate predictions in a database
+- Deploy the application on a cloud platform
+- Add recruiter authentication and candidate management
+- Develop a REST API for real-time hiring predictions
