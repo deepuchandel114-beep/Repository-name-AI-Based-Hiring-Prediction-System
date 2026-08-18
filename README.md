@@ -130,8 +130,7 @@ The project includes:
 ![Education vs Hiring Decision](screenshots/Education%20vs%20Hiring%20decision.png)
 
 ### Job vs Hiring Decision
-
-![Job vs Hiring Decision](screenshots/Job%20vs%20Hiring%20Decision.png)
+(![Job vs Hiring Decision](screenshots/Job%20vs%20Hiring%20Decision.png))
 
 ### Project Count vs Hiring Decision
 
