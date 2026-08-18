@@ -1,4 +1,8 @@
 # 🤖 AI-Based Hiring Prediction System
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 An end-to-end Machine Learning system that predicts whether a candidate should be **Hired or Rejected** based on their experience, skills, education, certifications, projects, salary expectation, and AI score.
 
