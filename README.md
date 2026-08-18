@@ -49,3 +49,33 @@ Candidate Prediction
 ```bash
 git clone https://github.com/deepuchandel114-beep/Repository-name-AI-Based-Hiring-Prediction-System.git
 cd Repository-name-AI-Based-Hiring-Prediction-System
+
+## 📂 Project Structure
+
+```text
+AI-Based-Hiring-Prediction-System/
+│
+├── Data/
+│   └── hiring_data.csv
+│
+├── screenshots/
+│   ├── AI Score vs Hiring Decision.png
+│   ├── Candidate Prediction Demo.png
+│   ├── Confusion Matrix.png
+│   ├── Education vs Hiring decision.png
+│   ├── Hiring decision distribution.png
+│   ├── Job vs Hiring Decision.png
+│   ├── Project Count vs Hiring decision.png
+│   ├── Salary Expectation vs Hiring Decision.png
+│   └── Top 10 Feature Importance.png
+│
+├── hiring_prediction.py
+├── hiring_model.pkl
+├── hiring_encoder.pkl
+├── feature_importance.csv
+├── prediction_result.csv
+├── multiple_candidate_results.csv
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
