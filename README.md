@@ -100,3 +100,20 @@ The current system can be further enhanced with the following features:
 - Deploy the application on a cloud platform
 - Add recruiter authentication and candidate management
 - Develop a REST API for real-time hiring predictions
+ 
+
+ ---
+
+## 👨‍💻 Author
+
+**Deepak**
+
+B.Tech — Artificial Intelligence
+
+This project was developed as an end-to-end Machine Learning project focused on applying predictive analytics to recruitment and hiring decisions.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
