@@ -1,4 +1,5 @@
 # 🤖 AI-Based Hiring Prediction System
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -45,6 +46,102 @@ Model Evaluation
 Model Saving
    ↓
 Candidate Prediction
+```
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Joblib
+- Logistic Regression
+
+---
+
+## 📊 Model Performance
+
+| Metric | Result |
+|---|---:|
+| Training Samples | 800 |
+| Testing Samples | 200 |
+| Test Accuracy | **99.50%** |
+| Model | Logistic Regression |
+
+---
+
+## 📌 Features Used
+
+### Numerical Features
+
+- Experience
+- Salary Expectation
+- Projects Count
+- AI Score
+
+### Categorical Features
+
+- Skills
+- Education
+- Certifications
+- Job Role
+
+---
+
+## 🔍 Feature Importance
+
+The model analyzes which features have the strongest influence on hiring predictions.
+
+The project includes:
+
+- `feature_importance.csv`
+- Top 10 Feature Importance visualization
+
+---
+
+## 📸 Project Screenshots
+
+### Hiring Decision Distribution
+
+![Hiring Decision Distribution](screenshots/Hiring%20decision%20distribution.png)
+
+### AI Score vs Hiring Decision
+
+![AI Score vs Hiring Decision](screenshots/AI%20Score%20vs%20Hiring%20Decision.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/Confusion%20Matrix.png)
+
+### Top 10 Feature Importance
+
+![Top 10 Feature Importance](screenshots/Top%2010%20Feature%20Importance.png)
+
+### Candidate Prediction Demo
+
+![Candidate Prediction Demo](screenshots/Candidate%20Prediction%20Demo.png)
+
+### Education vs Hiring Decision
+
+![Education vs Hiring Decision](screenshots/Education%20vs%20Hiring%20decision.png)
+
+### Job vs Hiring Decision
+
+![Job vs Hiring Decision](screenshots/Job%20vs%20Hiring%20Decision.png)
+
+### Project Count vs Hiring Decision
+
+![Project Count vs Hiring Decision](screenshots/Project%20Count%20vs%20Hiring%20decision.png)
+
+### Salary Expectation vs Hiring Decision
+
+![Salary Expectation vs Hiring Decision](screenshots/Salary%20Expectation%20vs%20Hiring%20Decision.png)
+
+---
 
 ## ▶️ How to Run
 
@@ -53,6 +150,37 @@ Candidate Prediction
 ```bash
 git clone https://github.com/deepuchandel114-beep/Repository-name-AI-Based-Hiring-Prediction-System.git
 cd Repository-name-AI-Based-Hiring-Prediction-System
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### 3. Activate the Virtual Environment
+
+**Windows:**
+
+```bash
+venv\Scripts\activate
+```
+
+### 4. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run the Project
+
+```bash
+python hiring_prediction.py
+```
+
+The system will train the model, evaluate its performance, save the trained model and encoder, perform candidate predictions, and generate result files.
+
+---
 
 ## 📂 Project Structure
 
@@ -83,6 +211,7 @@ AI-Based-Hiring-Prediction-System/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 ---
 
@@ -100,9 +229,8 @@ The current system can be further enhanced with the following features:
 - Deploy the application on a cloud platform
 - Add recruiter authentication and candidate management
 - Develop a REST API for real-time hiring predictions
- 
 
- ---
+---
 
 ## 👨‍💻 Author
 
